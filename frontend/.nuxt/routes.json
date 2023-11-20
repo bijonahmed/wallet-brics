@@ -1,0 +1,296 @@
+[
+  {
+    "name": "confirm-phrase",
+    "path": "/confirm-phrase",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\confirm-phrase.vue",
+    "chunkName": "pages/confirm-phrase"
+  },
+  {
+    "name": "create-identity",
+    "path": "/create-identity",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\create-identity.vue",
+    "chunkName": "pages/create-identity"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "phrase",
+    "path": "/phrase",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\phrase.vue",
+    "chunkName": "pages/phrase"
+  },
+  {
+    "name": "privacy-alert",
+    "path": "/privacy-alert",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\privacy-alert.vue",
+    "chunkName": "pages/privacy-alert"
+  },
+  {
+    "name": "recover-identity",
+    "path": "/recover-identity",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\recover-identity.vue",
+    "chunkName": "pages/recover-identity"
+  },
+  {
+    "name": "update-password",
+    "path": "/update-password",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\update-password.vue",
+    "chunkName": "pages/update-password"
+  },
+  {
+    "name": "wallet-add-coin-start",
+    "path": "/wallet/add-coin-start",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\add-coin-start.vue",
+    "chunkName": "pages/wallet/add-coin-start"
+  },
+  {
+    "name": "wallet-add-wallet",
+    "path": "/wallet/add-wallet",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\add-wallet.vue",
+    "chunkName": "pages/wallet/add-wallet"
+  },
+  {
+    "name": "wallet-all-news",
+    "path": "/wallet/all-news",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\all-news.vue",
+    "chunkName": "pages/wallet/all-news"
+  },
+  {
+    "name": "wallet-biometric",
+    "path": "/wallet/biometric",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\biometric.vue",
+    "chunkName": "pages/wallet/biometric"
+  },
+  {
+    "name": "wallet-identity-information",
+    "path": "/wallet/identity-information",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\identity-information.vue",
+    "chunkName": "pages/wallet/identity-information"
+  },
+  {
+    "name": "wallet-layer",
+    "path": "/wallet/layer",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\layer.vue",
+    "chunkName": "pages/wallet/layer"
+  },
+  {
+    "name": "wallet-market",
+    "path": "/wallet/market",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\market.vue",
+    "chunkName": "pages/wallet/market"
+  },
+  {
+    "name": "wallet-news",
+    "path": "/wallet/news",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\news.vue",
+    "chunkName": "pages/wallet/news"
+  },
+  {
+    "name": "wallet-receive",
+    "path": "/wallet/receive",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\receive.vue",
+    "chunkName": "pages/wallet/receive"
+  },
+  {
+    "name": "wallet-scan",
+    "path": "/wallet/scan",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\scan.vue",
+    "chunkName": "pages/wallet/scan"
+  },
+  {
+    "name": "wallet-trade",
+    "path": "/wallet/trade",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\trade.vue",
+    "chunkName": "pages/wallet/trade"
+  },
+  {
+    "name": "wallet-trade-allowance",
+    "path": "/wallet/trade-allowance",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\trade-allowance.vue",
+    "chunkName": "pages/wallet/trade-allowance"
+  },
+  {
+    "name": "wallet-transaction",
+    "path": "/wallet/transaction",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\transaction.vue",
+    "chunkName": "pages/wallet/transaction"
+  },
+  {
+    "name": "wallet-transfer",
+    "path": "/wallet/transfer",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\transfer.vue",
+    "chunkName": "pages/wallet/transfer"
+  },
+  {
+    "name": "wallet-wallet-dashboard",
+    "path": "/wallet/wallet-dashboard",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\wallet-dashboard.vue",
+    "chunkName": "pages/wallet/wallet-dashboard"
+  },
+  {
+    "name": "wallet-wallet-manage",
+    "path": "/wallet/wallet-manage",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\wallet-manage.vue",
+    "chunkName": "pages/wallet/wallet-manage"
+  },
+  {
+    "name": "wallet-asset-asset",
+    "path": "/wallet/asset/asset",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\asset\\\\asset.vue",
+    "chunkName": "pages/wallet/asset/asset"
+  },
+  {
+    "name": "wallet-asset-display-asset",
+    "path": "/wallet/asset/display-asset",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\asset\\\\display-asset.vue",
+    "chunkName": "pages/wallet/asset/display-asset"
+  },
+  {
+    "name": "wallet-asset-my-asset",
+    "path": "/wallet/asset/my-asset",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\asset\\\\my-asset.vue",
+    "chunkName": "pages/wallet/asset/my-asset"
+  },
+  {
+    "name": "wallet-manage-add-coin",
+    "path": "/wallet/manage/add-coin",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\manage\\\\add-coin.vue",
+    "chunkName": "pages/wallet/manage/add-coin"
+  },
+  {
+    "name": "wallet-manage-cold-wallet",
+    "path": "/wallet/manage/cold-wallet",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\manage\\\\cold-wallet.vue",
+    "chunkName": "pages/wallet/manage/cold-wallet"
+  },
+  {
+    "name": "wallet-manage-create-wallet",
+    "path": "/wallet/manage/create-wallet",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\manage\\\\create-wallet.vue",
+    "chunkName": "pages/wallet/manage/create-wallet"
+  },
+  {
+    "name": "wallet-manage-identity-information",
+    "path": "/wallet/manage/identity-information",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\manage\\\\identity-information.vue",
+    "chunkName": "pages/wallet/manage/identity-information"
+  },
+  {
+    "name": "wallet-manage-import-wallet",
+    "path": "/wallet/manage/import-wallet",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\manage\\\\import-wallet.vue",
+    "chunkName": "pages/wallet/manage/import-wallet"
+  },
+  {
+    "name": "wallet-manage-key-store",
+    "path": "/wallet/manage/key-store",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\manage\\\\key-store.vue",
+    "chunkName": "pages/wallet/manage/key-store"
+  },
+  {
+    "name": "wallet-manage-personal-details",
+    "path": "/wallet/manage/personal-details",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\manage\\\\personal-details.vue",
+    "chunkName": "pages/wallet/manage/personal-details"
+  },
+  {
+    "name": "wallet-manage-private-key",
+    "path": "/wallet/manage/private-key",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\manage\\\\private-key.vue",
+    "chunkName": "pages/wallet/manage/private-key"
+  },
+  {
+    "name": "wallet-user-about",
+    "path": "/wallet/user/about",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\about.vue",
+    "chunkName": "pages/wallet/user/about"
+  },
+  {
+    "name": "wallet-user-add-address",
+    "path": "/wallet/user/add-address",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\add-address.vue",
+    "chunkName": "pages/wallet/user/add-address"
+  },
+  {
+    "name": "wallet-user-address-book",
+    "path": "/wallet/user/address-book",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\address-book.vue",
+    "chunkName": "pages/wallet/user/address-book"
+  },
+  {
+    "name": "wallet-user-address-type",
+    "path": "/wallet/user/address-type",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\address-type.vue",
+    "chunkName": "pages/wallet/user/address-type"
+  },
+  {
+    "name": "wallet-user-explore",
+    "path": "/wallet/user/explore",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\explore.vue",
+    "chunkName": "pages/wallet/user/explore"
+  },
+  {
+    "name": "wallet-user-manage-wallet",
+    "path": "/wallet/user/manage-wallet",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\manage-wallet.vue",
+    "chunkName": "pages/wallet/user/manage-wallet"
+  },
+  {
+    "name": "wallet-user-notification",
+    "path": "/wallet/user/notification",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\notification.vue",
+    "chunkName": "pages/wallet/user/notification"
+  },
+  {
+    "name": "wallet-user-profile",
+    "path": "/wallet/user/profile",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\profile.vue",
+    "chunkName": "pages/wallet/user/profile"
+  },
+  {
+    "name": "wallet-user-settings-currency",
+    "path": "/wallet/user/settings/currency",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\settings\\\\currency.vue",
+    "chunkName": "pages/wallet/user/settings/currency"
+  },
+  {
+    "name": "wallet-user-settings-dap-settings",
+    "path": "/wallet/user/settings/dap-settings",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\settings\\\\dap-settings.vue",
+    "chunkName": "pages/wallet/user/settings/dap-settings"
+  },
+  {
+    "name": "wallet-user-settings-language",
+    "path": "/wallet/user/settings/language",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\settings\\\\language.vue",
+    "chunkName": "pages/wallet/user/settings/language"
+  },
+  {
+    "name": "wallet-user-settings-network",
+    "path": "/wallet/user/settings/network",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\settings\\\\network.vue",
+    "chunkName": "pages/wallet/user/settings/network"
+  },
+  {
+    "name": "wallet-user-settings-network-detection",
+    "path": "/wallet/user/settings/network-detection",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\settings\\\\network-detection.vue",
+    "chunkName": "pages/wallet/user/settings/network-detection"
+  },
+  {
+    "name": "wallet-user-settings-settings",
+    "path": "/wallet/user/settings/settings",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\wallet\\\\user\\\\settings\\\\settings.vue",
+    "chunkName": "pages/wallet/user/settings/settings"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\Server\\\\htdocs\\\\wallet_uae\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
